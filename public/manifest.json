@@ -1,0 +1,17 @@
+{
+  "name": "Base Count Master",
+  "short_name": "CountMaster",
+  "description": "Fast-paced math quiz game on Base blockchain",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7c3aed",
+  "background_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
