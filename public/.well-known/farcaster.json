@@ -1,0 +1,32 @@
+{
+    "accountAssociation": {
+      "header": "",
+      "payload": "",
+      "signature": ""
+    },
+    "miniapp": {
+      "version": "1",
+      "name": "Base Count Master",
+      "subtitle": "Math Battle Arena",
+      "description": "A simple counter mini app built on Base.",
+      "tagline": "Count smarter on Base",
+      "homeUrl": "https://base-count-master.vercel.app",
+      "iconUrl": "https://base-count-master.vercel.app/blue-icon.png",
+  
+      "splashImageUrl": "https://base-count-master.vercel.app/blue-hero.png",
+      "splashBackgroundColor": "#000000",
+  
+      "primaryCategory": "utility",
+      "tags": ["counter", "base", "miniapp"],
+  
+      "heroImageUrl": "https://base-count-master.vercel.app/blue-hero.png",
+      "screenshotUrls": [
+        "https://base-count-master.vercel.app/screenshot-portrait.png"
+      ],
+  
+      "ogTitle": "Base Count",
+      "ogDescription": "A simple counter mini app on Base",
+      "ogImageUrl": "https://base-count-master.vercel.app/blue-hero.png"
+    }
+  }
+  
